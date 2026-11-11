@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "msg": "查询成功",
+    "data": {
+        "110101199001011234": {
+            "username": "张三",
+            "month": "2026年8月",
+            "baseSalary": 8000,
+            "performance": 2000,
+            "overtime": 500,
+            "sickLeave": 200,
+            "subsidy": 500,
+            "missPunch": 100,
+            "marketingAward": 800,
+            "bankScore": 50,
+            "adjustment": 100,
+            "netSalary": 12050
+        },
+        "110101199505055678": {
+            "username": "李四",
+            "month": "2026年8月",
+            "baseSalary": 12000,
+            "performance": 3000,
+            "overtime": 0,
+            "sickLeave": 0,
+            "subsidy": 800,
+            "missPunch": 0,
+            "marketingAward": 1200,
+            "bankScore": 100,
+            "adjustment": -150,
+            "netSalary": 16950
+        }
+    }
+}
